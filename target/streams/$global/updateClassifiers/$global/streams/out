@@ -1,0 +1,885 @@
+[0m[[0mdebug[0m] [0m:: resolving dependencies :: default#alupigus$sources_javadoc_2.10;1.0[0m
+[0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
+[0m[[0mdebug[0m] [0m	validate = true[0m
+[0m[[0mdebug[0m] [0m	refresh = false[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1eb0b508[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.1[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-actor_2.10;2.2-M3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ef92644[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.10;2.2-M3[0m
+[0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-actor_2.10;2.2-M3 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving com.typesafe#config;1.0.0 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ec869fe[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe#config;1.0.0[0m
+[0m[[0mdebug[0m] [0m	found com.typesafe#config;1.0.0 in public[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-slf4j_2.10;2.2-M3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@11658c0a[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.akka#akka-slf4j_2.10;2.2-M3[0m
+[0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-slf4j_2.10;2.2-M3 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.slf4j#slf4j-api;1.7.2 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@798c3e9[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.2[0m
+[0m[[0mdebug[0m] [0m	found org.slf4j#slf4j-api;1.7.2 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-remote_2.10;2.2-M3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a471f6d[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.akka#akka-remote_2.10;2.2-M3[0m
+[0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-remote_2.10;2.2-M3 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving io.netty#netty;3.6.5.Final ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5a66e70e[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: io.netty#netty;3.6.5.Final[0m
+[0m[[0mdebug[0m] [0m	found io.netty#netty;3.6.5.Final in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving com.google.protobuf#protobuf-java;2.4.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@510ceea3[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.google.protobuf#protobuf-java;2.4.1[0m
+[0m[[0mdebug[0m] [0m	found com.google.protobuf#protobuf-java;2.4.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.uncommons.maths#uncommons-maths;1.2.2a ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2175bafb[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.uncommons.maths#uncommons-maths;1.2.2a[0m
+[0m[[0mdebug[0m] [0m	found org.uncommons.maths#uncommons-maths;1.2.2a in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-agent_2.10;2.2-M3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@441fb02d[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.akka#akka-agent_2.10;2.2-M3[0m
+[0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-agent_2.10;2.2-M3 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-stm#scala-stm_2.10;0.7 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ca11675[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-stm#scala-stm_2.10;0.7[0m
+[0m[[0mdebug[0m] [0m	found org.scala-stm#scala-stm_2.10;0.7 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [test][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-testkit_2.10;2.2-M3 [test->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-testkit_2.10;2.2-M3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79e7728a[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.akka#akka-testkit_2.10;2.2-M3[0m
+[0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-testkit_2.10;2.2-M3 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-testkit_2.10;2.2-M3 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-testkit_2.10;2.2-M3 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-testkit_2.10;2.2-M3 [test->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'provided'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [provided][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'optional'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [optional][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [compile-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [provided][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile-internal->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [runtime-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime-internal->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [test-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [test][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [runtime->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-testkit_2.10;2.2-M3 [test->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-testkit_2.10;2.2-M3 [test->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-testkit_2.10;2.2-M3 [test->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-testkit_2.10;2.2-M3 [test->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [provided][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-actor_2.10;2.2-M3 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe#config;1.0.0 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-slf4j_2.10;2.2-M3 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.2 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-remote_2.10;2.2-M3 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->io.netty#netty;3.6.5.Final [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.4.1 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-agent_2.10;2.2-M3 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-stm#scala-stm_2.10;0.7 [test-internal->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-testkit_2.10;2.2-M3 [test-internal->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-testkit_2.10;2.2-M3 [test-internal->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-testkit_2.10;2.2-M3 [test-internal->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->com.typesafe.akka#akka-testkit_2.10;2.2-M3 [test-internal->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'plugin'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [plugin][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'sources'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [sources][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'docs'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [docs][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'pom'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [pom][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'scala-tool'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for default#alupigus$sources_javadoc_2.10;1.0 [scala-tool][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [scala-tool->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.1 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.1 [scala-tool->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-compiler;2.10.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.10.1 {scala-tool=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.10.1[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-compiler;2.10.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.1 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.1 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.1 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.1 [scala-tool->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-reflect;2.10.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.10.1 {scala-tool=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.10.1[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-reflect;2.10.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.1 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.1 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.1 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#jline;2.10.1 [scala-tool->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#jline;2.10.1 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#jline;2.10.1 {scala-tool=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#jline;2.10.1[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#jline;2.10.1 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#jline;2.10.1 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#jline;2.10.1 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.scala-lang#jline;2.10.1 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.fusesource.jansi#jansi;1.4 [scala-tool->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.fusesource.jansi#jansi;1.4 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.fusesource.jansi#jansi;1.4 {scala-tool=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.fusesource.jansi#jansi;1.4[0m
+[0m[[0mdebug[0m] [0m	found org.fusesource.jansi#jansi;1.4 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.fusesource.jansi#jansi;1.4 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.fusesource.jansi#jansi;1.4 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies default#alupigus$sources_javadoc_2.10;1.0->org.fusesource.jansi#jansi;1.4 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m	resolved ivy file produced in cache[0m
+[0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-library;2.10.1!scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-library;2.10.1!scala-library.jar(src)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-library;2.10.1!scala-library.jar(doc)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.10;2.2-M3!akka-actor_2.10.jar(src)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.10;2.2-M3!akka-actor_2.10.jar(doc)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.10;2.2-M3!akka-actor_2.10.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe#config;1.0.0!config.jar(src)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe#config;1.0.0!config.jar(doc)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe#config;1.0.0!config.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-slf4j_2.10;2.2-M3!akka-slf4j_2.10.jar(src)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-slf4j_2.10;2.2-M3!akka-slf4j_2.10.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-slf4j_2.10;2.2-M3!akka-slf4j_2.10.jar(doc)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.2!slf4j-api.jar(doc)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.2!slf4j-api.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.2!slf4j-api.jar(src)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-remote_2.10;2.2-M3!akka-remote_2.10.jar(src)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-remote_2.10;2.2-M3!akka-remote_2.10.jar(doc)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-remote_2.10;2.2-M3!akka-remote_2.10.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] io.netty#netty;3.6.5.Final!netty.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] io.netty#netty;3.6.5.Final!netty.jar(doc)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] io.netty#netty;3.6.5.Final!netty.jar(src)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.google.protobuf#protobuf-java;2.4.1!protobuf-java.jar(src)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.google.protobuf#protobuf-java;2.4.1!protobuf-java.jar(doc)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.google.protobuf#protobuf-java;2.4.1!protobuf-java.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.uncommons.maths#uncommons-maths;1.2.2a!uncommons-maths.jar(doc)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.uncommons.maths#uncommons-maths;1.2.2a!uncommons-maths.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.uncommons.maths#uncommons-maths;1.2.2a!uncommons-maths.jar(src)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-agent_2.10;2.2-M3!akka-agent_2.10.jar(doc)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-agent_2.10;2.2-M3!akka-agent_2.10.jar(src)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-agent_2.10;2.2-M3!akka-agent_2.10.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-stm#scala-stm_2.10;0.7!scala-stm_2.10.jar(doc)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-stm#scala-stm_2.10;0.7!scala-stm_2.10.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-stm#scala-stm_2.10;0.7!scala-stm_2.10.jar(src)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-testkit_2.10;2.2-M3!akka-testkit_2.10.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-testkit_2.10;2.2-M3!akka-testkit_2.10.jar(src)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-testkit_2.10;2.2-M3!akka-testkit_2.10.jar(doc)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.1!scala-compiler.jar(doc)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.1!scala-compiler.jar(src)[0m
+[0m[[0mdebug[0m] [0m		tried /home/katakonst/.ivy2/local/org.scala-lang/scala-reflect/2.10.1/docs/scala-reflect-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried /home/katakonst/.ivy2/local/org.scala-lang/scala-reflect/2.10.1/srcs/scala-reflect-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.10.1/scala-reflect-2.10.1-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.10.1/scala-reflect-2.10.1-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.10.1/scala-reflect-2.10.1-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.10.1/scala-reflect-2.10.1-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.10.1/scala-reflect-2.10.1-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.10.1!scala-reflect.jar(doc) (982604ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.10.1/scala-reflect-2.10.1-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.10.1/scala-reflect-2.10.1-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.10.1/scala-reflect-2.10.1-sources.jar[0m
+[0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.10.1/scala-reflect-2.10.1-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.10.1/scala-reflect-2.10.1-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.10.1!scala-reflect.jar(src) (11566ms)[0m
+[0m[[0mdebug[0m] [0m		tried /home/katakonst/.ivy2/local/org.scala-lang/jline/2.10.1/docs/jline-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m		tried /home/katakonst/.ivy2/local/org.scala-lang/jline/2.10.1/srcs/jline-sources.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://jcenter.bintray.com/org/scala-lang/jline/2.10.1/jline-2.10.1-javadoc.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://jcenter.bintray.com/org/scala-lang/jline/2.10.1/jline-2.10.1-javadoc.jar ...[0m
+[0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/jline/2.10.1/jline-2.10.1-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/jline/2.10.1/jline-2.10.1-javadoc.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://jcenter.bintray.com/org/scala-lang/jline/2.10.1/jline-2.10.1-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#jline;2.10.1!jline.jar(doc) (15423ms)[0m
+[0m[[0mdebug[0m] [0m		tried https://jcenter.bintray.com/org/scala-lang/jline/2.10.1/jline-2.10.1-sources.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://jcenter.bintray.com/org/scala-lang/jline/2.10.1/jline-2.10.1-sources.jar ...[0m
+[0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/jline/2.10.1/jline-2.10.1-sources.jar[0m
+[0m[[0mdebug[0m] [0m	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/jline/2.10.1/jline-2.10.1-sources.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://jcenter.bintray.com/org/scala-lang/jline/2.10.1/jline-2.10.1-sources.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#jline;2.10.1!jline.jar(src) (922ms)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(doc)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(src)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1926ms :: artifacts dl 1010763ms[0m
+[0m[[0mdebug[0m] [0m	report for default#alupigus$sources_javadoc_2.10;1.0 compile produced in /home/katakonst/scala/workspace3/alupigus/target/resolution-cache/reports/default-alupigus$sources_javadoc_2.10-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#alupigus$sources_javadoc_2.10;1.0 runtime produced in /home/katakonst/scala/workspace3/alupigus/target/resolution-cache/reports/default-alupigus$sources_javadoc_2.10-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#alupigus$sources_javadoc_2.10;1.0 test produced in /home/katakonst/scala/workspace3/alupigus/target/resolution-cache/reports/default-alupigus$sources_javadoc_2.10-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#alupigus$sources_javadoc_2.10;1.0 provided produced in /home/katakonst/scala/workspace3/alupigus/target/resolution-cache/reports/default-alupigus$sources_javadoc_2.10-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#alupigus$sources_javadoc_2.10;1.0 optional produced in /home/katakonst/scala/workspace3/alupigus/target/resolution-cache/reports/default-alupigus$sources_javadoc_2.10-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#alupigus$sources_javadoc_2.10;1.0 compile-internal produced in /home/katakonst/scala/workspace3/alupigus/target/resolution-cache/reports/default-alupigus$sources_javadoc_2.10-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#alupigus$sources_javadoc_2.10;1.0 runtime-internal produced in /home/katakonst/scala/workspace3/alupigus/target/resolution-cache/reports/default-alupigus$sources_javadoc_2.10-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#alupigus$sources_javadoc_2.10;1.0 test-internal produced in /home/katakonst/scala/workspace3/alupigus/target/resolution-cache/reports/default-alupigus$sources_javadoc_2.10-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#alupigus$sources_javadoc_2.10;1.0 plugin produced in /home/katakonst/scala/workspace3/alupigus/target/resolution-cache/reports/default-alupigus$sources_javadoc_2.10-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#alupigus$sources_javadoc_2.10;1.0 sources produced in /home/katakonst/scala/workspace3/alupigus/target/resolution-cache/reports/default-alupigus$sources_javadoc_2.10-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#alupigus$sources_javadoc_2.10;1.0 docs produced in /home/katakonst/scala/workspace3/alupigus/target/resolution-cache/reports/default-alupigus$sources_javadoc_2.10-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#alupigus$sources_javadoc_2.10;1.0 pom produced in /home/katakonst/scala/workspace3/alupigus/target/resolution-cache/reports/default-alupigus$sources_javadoc_2.10-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#alupigus$sources_javadoc_2.10;1.0 scala-tool produced in /home/katakonst/scala/workspace3/alupigus/target/resolution-cache/reports/default-alupigus$sources_javadoc_2.10-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (1926ms resolve - 1010763ms download)[0m

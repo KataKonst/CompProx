@@ -1,0 +1,4 @@
+/home/katakonst/scala/eclipse/notice.html:eclipse.exe
+/home/katakonst/scala/eclipse/eclipse.ini:eclipse.ini
+/home/katakonst/alias2.txt:alias
+
